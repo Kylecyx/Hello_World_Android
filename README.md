@@ -9,4 +9,4 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 ## Hello
-[testurl](www.google.com)
+[testurl](MyApplication\app\src\main\res\layout)
