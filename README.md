@@ -9,4 +9,4 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 ## Hello
-[testurl](MyApplication\app\src\main\res\layout)
+[testurl](https://github.com/formulahendry/955.WLB)
