@@ -1,5 +1,5 @@
 # Hello_World_Android
-** My_First_Android_Project **
+**My_First_Android_Project
 ```
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
